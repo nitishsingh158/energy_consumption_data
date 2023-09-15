@@ -18,13 +18,13 @@ Households have been categorized based on CACI ACORN(Classification of Residenti
     - Affluent and Comfortable households have higher proportions of opt-ins for ToU rates, possibly because they can afford to pay the higher rates that are charged at peak hours.
 
     &nbsp;
-    <img src="images/tariff_breakdown.png" width="550" style="display: block; margin: 0 auto;">
+    <img src="https://github.com/nitishsingh158/energy_consumption_data/blob/main/Images/tariff_breakdown.png" width="550" style="display: block; margin: 0 auto;">
 
     &nbsp;
     - The rate for ToU are high at peak times when the demand of energy is highest. Peak times occuraround mid-day in summers and morning and night in winters.
 
     &nbsp;
-    <img src="images/rate_breakdown.png" width="550" style="display: block; margin: 0 auto;">
+    <img src="https://github.com/nitishsingh158/energy_consumption_data/blob/main/Images/rate_breakdown.png" width="550" style="display: block; margin: 0 auto;">
 
 
 &nbsp;
@@ -35,23 +35,23 @@ Households have been categorized based on CACI ACORN(Classification of Residenti
     - Affluent and Comfortable households have higher cumulative energy usage in any month of the year.
 
     &nbsp;
-    <img src="images/median_monthly_usage_avg.png"  width="550" style="display: block; margin: 0 auto;">
+    <img src="https://github.com/nitishsingh158/energy_consumption_data/blob/main/Images/median_monthly_usage_avg.png"  width="550" style="display: block; margin: 0 auto;">
 
     &nbsp;
     - From this dataset, it does not look like ToU is very effective in curtailing energy usage of consumers. Both in summer and winter the ToU households use more energy than Std tariff households. This is possibly because more Affluent and Comfortable households opt in for ToU and they anyways have high energy consumption.
     **note:** If we plot each group seperately, we get to see the variations within each group showing that the above is not true, and there are some ToU users in ACORN Q, H, L that have much higher consumptions thatn other groups. 
 
     &nbsp;
-    <img src="images/median_usage_time_of_day.png" width="550" style="display: block; margin: 0 auto;">
+    <img src="https://github.com/nitishsingh158/energy_consumption_data/blob/main/Images/median_usage_time_of_day.png" width="550" style="display: block; margin: 0 auto;">
 
     &nbsp;
-    <img src="images/usage_by_groups.png" width="550" style="display: block; margin: 0 auto;">
+    <img src="https://github.com/nitishsingh158/energy_consumption_data/blob/main/Images/usage_by_groups.png" width="550" style="display: block; margin: 0 auto;">
 
     &nbsp;
     - From this dataset, we also see that ToU users have much higher monthly bills.
 
     &nbsp;
-    <img src="images/monthly_bill.png" width="550" style="display: block; margin: 0 auto;">
+    <img src="https://github.com/nitishsingh158/energy_consumption_data/blob/main/Images/monthly_bill.png" width="550" style="display: block; margin: 0 auto;">
 
 
 &nbsp;
@@ -62,7 +62,7 @@ Households have been categorized based on CACI ACORN(Classification of Residenti
     - Winter seems to have the highest demand for energy during the year, with the peak demand happening around 6:00 PM, just as people get home from work. Summer follows a similar trend but with lower energy usage. This means that utility has to solve for this peak energy demand when designing any energy intervention projects. 
 
     &nbsp;
-    <img src="images/load_profile_seasonal.png"  width="550" style="display: block; margin: 0 auto;">
+    <img src="https://github.com/nitishsingh158/energy_consumption_data/blob/main/Images/load_profile_seasonal.png"  width="550" style="display: block; margin: 0 auto;">
 
 
 
